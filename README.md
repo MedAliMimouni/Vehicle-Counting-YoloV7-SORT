@@ -45,6 +45,10 @@ python detect_count_track.py --weights yolov7.pt --source "your video.mp4" --cla
 
 - Output file will be created in the ```working-dir/runs/detect/obj-tracking``` with original filename
 
+#### demo example: https://youtu.be/vc66Fy0dARQ
+#### Original video: https://drive.google.com/file/d/16ViS0tIUEAQPNS7NMqNrrIQAURGAVByJ/view?usp=share_link
+
+
 
  ### References
  - https://github.com/WongKinYiu/yolov7
